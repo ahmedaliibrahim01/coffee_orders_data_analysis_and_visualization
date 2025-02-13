@@ -9,24 +9,6 @@ The "Coffee Orders" project is based on a dataset aimed at analyzing and visuali
 - **Top5Customers: Top 5 customers with the highest sales**
 - **Orders, customers, products: Raw data and updated data after analysis**
 
-## Methodology and Analysis Process
-
-The project followed these steps using data analysis and visualization techniques:
-
-- **Data Cleaning and Preparation:** In the first step, missing data and inconsistencies were identified and cleaned. Customer and product data were validated and merged.
-- **Data Analysis:** Relationships between orders and customer data were explored, and sales and customer preferences were analyzed. Products were analyzed by coffee type and roast type.
-- **Visualization:** Data visualization tools were used to create charts, such as sales distribution by country, top-selling products, and customer profiles. These visuals provide valuable insights for decision-making.
-- **Total Sales Analysis** The total sales were analyzed to see how sales changed over a specific period.
-
-## Key Findings and Results
-
-Some of the key findings from the project include:
-
-- **Most Popular Coffee Types:** Espresso and Americano are among the most preferred coffee types.
-- **Sales Distribution by Country:** The US, Germany, and the UK have the highest sales.
-- **Top-Selling Customers:** Customers with loyalty cards tend to place more orders.
-- **Profit Margins:** Expensive coffee types, like espresso, have higher profit margins.
-
 ## Screenshots of the project
 ![Dashboard](images/1_dashboard.png)
 ![TotalSales](images/2_totalSales.png)
@@ -79,6 +61,24 @@ This sheet contains details about coffee products. The columns are as follows:
 - Unit Price: Unit price
 - Price per 100g: Price per 100 grams
 - Profit: Profit margin
+
+## Methodology and Analysis Process
+
+The project followed these steps using data analysis and visualization techniques:
+
+- **Data Cleaning and Preparation:** In the first step, missing data and inconsistencies were identified and cleaned. Customer and product data were validated and merged.
+- **Data Analysis:** Relationships between orders and customer data were explored, and sales and customer preferences were analyzed. Products were analyzed by coffee type and roast type.
+- **Visualization:** Data visualization tools were used to create charts, such as sales distribution by country, top-selling products, and customer profiles. These visuals provide valuable insights for decision-making.
+- **Total Sales Analysis** The total sales were analyzed to see how sales changed over a specific period.
+
+## Key Findings and Results
+
+Some of the key findings from the project include:
+
+- **Most Popular Coffee Types:** Espresso and Americano are among the most preferred coffee types.
+- **Sales Distribution by Country:** The US, Germany, and the UK have the highest sales.
+- **Top-Selling Customers:** Customers with loyalty cards tend to place more orders.
+- **Profit Margins:** Expensive coffee types, like espresso, have higher profit margins.
 
 ## License
 
