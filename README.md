@@ -3,11 +3,11 @@
 ## Description
 The "Coffee Orders" project is based on a dataset aimed at analyzing and visualizing coffee orders using Microsoft Excel. In this project, insights have been derived about sales, customer behavior, and product preferences by examining detailed information about customer coffee orders. The data consists of three main sheets containing order details, customer information, and product data. After the analysis process, the data has been visualized, and various analyses have been provided.
 
-- **Dashboard: Overview and main analysis results**
-- **TotalSales: Total sales and sales trends**
-- **CountryBarChart: Sales visualization by country**
-- **Top5Customers: Top 5 customers with the highest sales**
-- **Orders, customers, products: Raw data and updated data after analysis**
+- **Dashboard:** Overview and main analysis results
+- **TotalSales:** Total sales and sales trends
+- **CountryBarChart:** Sales visualization by country
+- **Top5Customers:** Top 5 customers with the highest sales
+- **Orders, customers, products:** Raw data and updated data after analysis
 
 ## Screenshots of the project
 ![Dashboard](images/1_dashboard.png)
